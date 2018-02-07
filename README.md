@@ -1,2 +1,3 @@
 # Follow-Along-Link-Highlighter
-Created using Follow Along Link Highlighter (JavaScript30)
+
+- A Javascript project that highlights links and follows you to a link that has been selected.
